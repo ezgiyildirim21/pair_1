@@ -1,14 +1,10 @@
-package service;
-
-import entity.Student;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class StudentService {
+public class StudentManager {
 
     List<Student> students = new ArrayList<Student>();
-    public StudentService(){
+    public StudentManager(){
 
     }
     public void studentAdd(Student student){
