@@ -1,7 +1,7 @@
-Pair Çalışması 
+# Pair Çalışması 
 
 
 
-## Ezgi Yıldırım
-## Umut Durmuş
-## Umut Can Bal
+### Ezgi Yıldırım
+### Umut Durmuş
+### Umut Can Bal
